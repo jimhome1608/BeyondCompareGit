@@ -1,0 +1,7 @@
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\obj\Debug\BeyondCompareGit.csprojAssemblyReference.cache
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\obj\Debug\BeyondCompareGit.csproj.CoreCompileInputs.cache
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\bin\Debug\BeyondCompareGit.exe.config
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\bin\Debug\BeyondCompareGit.exe
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\bin\Debug\BeyondCompareGit.pdb
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\obj\Debug\BeyondCompareGit.exe
+C:\Users\Jim\source\repos\BeyondCompareGit\BeyondCompareGit\obj\Debug\BeyondCompareGit.pdb
